@@ -1,0 +1,15 @@
+current directory: /home/nafi/Masaüstü/list-app/vendor/cache/ruby/2.4.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+/home/nafi/.rvm/rubies/ruby-2.4.2/bin/ruby -r ./siteconf20181102-10531-17lr1wk.rb extconf.rb
+creating Makefile
+
+current directory: /home/nafi/Masaüstü/list-app/vendor/cache/ruby/2.4.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/nafi/Masaüstü/list-app/vendor/cache/ruby/2.4.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/nafi/Masaüstü/list-app/vendor/cache/ruby/2.4.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20181102-10531-1696fs3
